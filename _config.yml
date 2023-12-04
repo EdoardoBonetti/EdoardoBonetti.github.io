@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Edoardo Bonetti
-author: E. Bonetti
+title: Introduction to Scientific Computing
+author: J. Schöberl
 logo: ASC_Logo_transparent_300ppi_RGB.png
 copyright : "2023"  # Copyright year to be placed in the footer
 
