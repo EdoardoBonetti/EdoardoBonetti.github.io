@@ -1,0 +1,58 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Basic Linear Algebra
+    numbered: True
+    chapters:
+    - file: basiclinalg/bla
+    - file: basiclinalg/bla-git
+    - file: basiclinalg/bla-refreshCpp
+    - file: basiclinalg/bla-docu.md
+    - file: basiclinalg/bla-expressions.md
+    - file: basiclinalg/bla-python2.ipynb
+    - file: basiclinalg/bla-lapack.ipynb
+
+  - caption: Performance
+    numbered: True  
+    chapters:
+    - file: performance/overview.md    
+    - file: performance/vectorization.md
+    - file: performance/pipelining.md
+    - file: performance/caches1.md
+    - file: performance/parallelization.md
+
+
+  - caption: ODEs
+    numbered: True  
+    chapters:
+    - file: ODEs/ODEs
+    - file: ODEs/theory
+    - file: ODEs/firstmethods
+    - file: ODEs/implementation
+    - file: ODEs/RungeKutta
+
+  - caption: PDEs
+    numbered: True  
+    chapters:
+    - file: PDEs/PDEs
+    - file: PDEs/PDEs-Poisson
+    - file: PDEs/PDEs-iterative
+    - file: PDEs/PDEs-waves
+    - file: PDEs/PDEs-flows            
+
+
+
+
+
+#  - file: basiclinalg/bla
+#  - file: basiclinalg/bla-git
+#  - file: basiclinalg/bla-explainCpp
+#  - file: PDEs/PDEs
+
+
+
+# - file: notebooks
+# - file: markdown-notebooks
