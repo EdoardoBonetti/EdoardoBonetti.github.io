@@ -1,5 +1,4 @@
 # IntroSC
 Lecture notes Introduction to Scientific Computing
 
-[read online](https://jschoeberl.github.io/IntroSC/intro.html)
-
+[read online]([https://edoardobonetti.github.io/intro.html])
